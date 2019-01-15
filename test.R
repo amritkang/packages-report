@@ -1,3 +1,3 @@
 .libPaths()
-ipt <- install.packages()
+ipt <- installed.packages()
 nrow(ipt)
